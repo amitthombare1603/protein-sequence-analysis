@@ -1,0 +1,19 @@
+
+Human Carbonic Anhydrase I (CA1)
+Protein Analysis Summary
+================================
+
+Protein length: 261 amino acids
+Molecular weight: 28869.84 Da
+Isoelectric point: 6.59
+Instability index: 25.78
+Aliphatic index: 71.00
+GRAVY: -0.536
+
+Most abundant amino acid:
+S (30 residues,
+11.49%)
+
+Least abundant amino acid:
+C (1 residue,
+0.38%)
